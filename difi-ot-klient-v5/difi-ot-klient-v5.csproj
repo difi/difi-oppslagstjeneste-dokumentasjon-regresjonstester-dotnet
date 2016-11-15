@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B48711E7-0C1A-466F-AB48-847A51EFB965}</ProjectGuid>
+    <ProjectGuid>{217BD004-E36E-406D-B79E-7619011E1101}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>difi_ot_klient_v5</RootNamespace>
@@ -30,8 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ApiClientShared, Version=1.0.5968.19413, Culture=neutral, PublicKeyToken=683b8efceae684a6, processorArchitecture=MSIL">
-      <HintPath>..\packages\api-client-shared.1.0.5968.19413\lib\net45\ApiClientShared.dll</HintPath>
+    <Reference Include="ApiClientShared, Version=2.0.0.0, Culture=neutral, PublicKeyToken=6e6972f540d5419a, processorArchitecture=MSIL">
+      <HintPath>..\packages\api-client-shared.2.0.0\lib\net45\ApiClientShared.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Common.Logging, Version=3.3.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
@@ -42,20 +42,20 @@
       <HintPath>..\packages\Common.Logging.Core.3.3.1\lib\net40\Common.Logging.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Difi.Felles.Utility, Version=0.8.0.27738, Culture=neutral, PublicKeyToken=683b8efceae684a6, processorArchitecture=MSIL">
-      <HintPath>..\packages\difi-felles-utility-dotnet.0.8.0.27738\lib\net45\Difi.Felles.Utility.dll</HintPath>
+    <Reference Include="Difi.Felles.Utility, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6e6972f540d5419a, processorArchitecture=MSIL">
+      <HintPath>..\packages\difi-felles-utility-dotnet.1.0.0\lib\net45\Difi.Felles.Utility.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Difi.Oppslagstjeneste.Klient, Version=5.4.0.23008, Culture=neutral, PublicKeyToken=683b8efceae684a6, processorArchitecture=MSIL">
-      <HintPath>..\packages\difi-oppslagstjeneste-klient.5.4.0.23008\lib\net45\Difi.Oppslagstjeneste.Klient.dll</HintPath>
+    <Reference Include="Difi.Oppslagstjeneste.Klient, Version=5.6.1.0, Culture=neutral, PublicKeyToken=6e6972f540d5419a, processorArchitecture=MSIL">
+      <HintPath>..\packages\difi-oppslagstjeneste-klient.5.6.1\lib\net45\Difi.Oppslagstjeneste.Klient.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Difi.Oppslagstjeneste.Klient.Domene, Version=5.4.0.23008, Culture=neutral, PublicKeyToken=683b8efceae684a6, processorArchitecture=MSIL">
-      <HintPath>..\packages\difi-oppslagstjeneste-klient.5.4.0.23008\lib\net45\Difi.Oppslagstjeneste.Klient.Domene.dll</HintPath>
+    <Reference Include="Difi.Oppslagstjeneste.Klient.Domene, Version=5.6.1.0, Culture=neutral, PublicKeyToken=6e6972f540d5419a, processorArchitecture=MSIL">
+      <HintPath>..\packages\difi-oppslagstjeneste-klient.5.6.1\lib\net45\Difi.Oppslagstjeneste.Klient.Domene.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Difi.Oppslagstjeneste.Klient.Scripts, Version=5.4.0.23008, Culture=neutral, PublicKeyToken=683b8efceae684a6, processorArchitecture=MSIL">
-      <HintPath>..\packages\difi-oppslagstjeneste-klient.5.4.0.23008\lib\net45\Difi.Oppslagstjeneste.Klient.Scripts.dll</HintPath>
+    <Reference Include="Difi.Oppslagstjeneste.Klient.Scripts, Version=5.6.1.0, Culture=neutral, PublicKeyToken=6e6972f540d5419a, processorArchitecture=MSIL">
+      <HintPath>..\packages\difi-oppslagstjeneste-klient.5.6.1\lib\net45\Difi.Oppslagstjeneste.Klient.Scripts.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />

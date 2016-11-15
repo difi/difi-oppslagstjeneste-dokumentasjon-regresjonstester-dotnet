@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "difi-ot-klient-v5", "difi-ot-klient-v5\difi-ot-klient-v5\difi-ot-klient-v5.csproj", "{B48711E7-0C1A-466F-AB48-847A51EFB965}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "difi-ot-klient-v5", "difi-ot-klient-v5\difi-ot-klient-v5.csproj", "{217BD004-E36E-406D-B79E-7619011E1101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B48711E7-0C1A-466F-AB48-847A51EFB965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B48711E7-0C1A-466F-AB48-847A51EFB965}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B48711E7-0C1A-466F-AB48-847A51EFB965}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B48711E7-0C1A-466F-AB48-847A51EFB965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217BD004-E36E-406D-B79E-7619011E1101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217BD004-E36E-406D-B79E-7619011E1101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217BD004-E36E-406D-B79E-7619011E1101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217BD004-E36E-406D-B79E-7619011E1101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
